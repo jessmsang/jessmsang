@@ -1,4 +1,4 @@
-# Hi! I'm Jess, and I'm a Software Engineer student @ TripleTen!
+# Hi! I'm Jess Sang, and I'm a Software Engineer student @ TripleTen!
 
 ### TripleTen Program Progress:
 ![36%](https://progress-bar.xyz/36)
