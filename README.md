@@ -1,6 +1,7 @@
 # Hi! I'm Jess, and I'm a Software Engineer student @ TripleTen!
 
-https://progress-bar.xyz/<thepercentage>?title=<TripleTen Progress:>
+### TripleTen Progress:
+![36%](https://progress-bar.xyz/36)
 
 ## **Languages and Tools:**
 
