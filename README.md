@@ -1,7 +1,7 @@
 # Hi! I'm Jess Sang, and I'm a Software Engineer student @ TripleTen!
 
 ### TripleTen Program Progress:
-![53%](https://progress-bar.xyz/53)
+![56%](https://progress-bar.xyz/56)
 
 HTML/CSS Developer Achievement:
 ![(1)HTML:CSS Developer](https://github.com/user-attachments/assets/b53449c4-00f4-4a0c-a16d-553b56c4bcbe)
