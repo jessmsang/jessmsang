@@ -1,7 +1,7 @@
 # Hi! I'm Jess Sang, and I'm a Software Engineer student @ TripleTen!
 
 ### TripleTen Program Progress:
-![62%](https://progress-bar.xyz/62)
+![64%](https://progress-bar.xyz/64)
 
 Front-End Software Engineer:
 ![(3) Front-End Engineer](https://github.com/user-attachments/assets/7da803eb-0f70-4c74-b4d1-ec1277f3646b)
