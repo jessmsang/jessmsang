@@ -3,6 +3,10 @@
 ### TripleTen Program Progress:
 ![81%](https://progress-bar.xyz/81)
 
+Full-Stack Engineer:
+![(3) Full-Stack Engineer](https://github.com/user-attachments/assets/fbbb686d-d87e-4dec-a61e-8fba6ccc87b3)
+
+
 Front-End Software Engineer:
 ![(3) Front-End Engineer](https://github.com/user-attachments/assets/7da803eb-0f70-4c74-b4d1-ec1277f3646b)
 
