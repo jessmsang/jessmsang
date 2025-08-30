@@ -1,7 +1,4 @@
-# Hi! I'm Jess Sang, and I'm a Software Engineer student @ TripleTen!
-
-### TripleTen Program Progress:
-![100%](https://progress-bar.xyz/100)
+# Hi! I'm Jess Sang, and I'm a Junior Full Stack Software Engineer
 
 Full-Stack Engineer:
 ![(1) Full-Stack Engineer](https://github.com/user-attachments/assets/fbbb686d-d87e-4dec-a61e-8fba6ccc87b3)
@@ -17,4 +14,10 @@ HTML/CSS Developer Achievement:
 
 ## **Languages and Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,figma,git,github,discord)](https://skillicons.dev)
+Languages: JavaScript (ES6+), HTML5, CSS3
+Frontend: React, Responsive Design, BEM
+Backend: Node.js, Express, REST APIs
+Databases: MongoDB, NoSQL
+Tools: Git, npm, Postman, Figma, VSCode,
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,nodejs,express,git,github,postman,figma,vscode)](https://skillicons.dev)
