@@ -20,4 +20,4 @@ Backend: Node.js, Express, REST APIs
 Databases: MongoDB, NoSQL
 Tools: Git, npm, Postman, Figma, VSCode,
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,nodejs,express,git,github,postman,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,monogodb,git,github,postman,figma,vscode)](https://skillicons.dev)
