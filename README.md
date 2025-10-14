@@ -36,7 +36,7 @@ Tools: Git, npm, Postman, Figma, VSCode
 - Implemented **dynamic filters** (season, location, category, group size, cost) and user features (add, like, complete).  
 - Designed an **Express/Node.js + MongoDB** backend for auth, CRUD, and persistent user data.  
 - Applied **responsive design** and state management for seamless mobile/desktop use.  
-**Links:** [Frontend Demo](https://jessmsang.github.io/hangout_frontend/) · [Frontend Repo](https://github.com/jessmsang/hangout_frontend) · [Backend Repo](https://github.com/jessmsang/hangout-backend)
+**Links:** [Demo](https://hangout.devbyjess.com/) · [Frontend Repo](https://github.com/jessmsang/hangout_frontend) · [Backend Repo](https://github.com/jessmsang/hangout-backend)
 
 ---
 
