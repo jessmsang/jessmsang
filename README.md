@@ -81,7 +81,7 @@ Tools: Git, npm, Postman, Figma, VSCode
 
 
 ## 📫 Let’s Connect!  
-- 💼 LinkedIn: [linkedin.com/in/jessicasang](https://linkedin.com/in/jessicasang)  
+- 💼 LinkedIn: [linkedin.com/in/jessicasang](https://linkedin.com/in/jess-sang)  
 - 📧 Email: **jessicamsang@hotmail.com**  
 
 ---
