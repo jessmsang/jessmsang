@@ -52,7 +52,7 @@ Tools: Git, npm, Postman, Figma, VSCode
 - Integrated **OpenWeather API** to generate clothing recommendations based on real-time conditions.  
 - Implemented **JWT auth** for secure login/registration and profile management.  
 - Designed **mobile-first UI** with modals; deployed backend on **Google Cloud (PM2)** and tested with **Postman**.  
-**Links:** [Demo](https://wtwr-js.jumpingcrab.com/) · [Frontend Repo](https://github.com/jessmsang/se_project_react) · [Backend Repo](https://github.com/jessmsang/se_project_express)
+**Links:** [Demo](https://wtwr.devbyjess.com/) · [Frontend Repo](https://github.com/jessmsang/se_project_react) · [Backend Repo](https://github.com/jessmsang/se_project_express)
 
 ---
 
