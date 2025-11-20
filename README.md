@@ -1,7 +1,9 @@
 # Hi, I’m Jess Sang 👋  
 Junior Full-Stack Software Engineer | Problem-Solver | Team Collaborator  
 
-I’m a **Full-Stack Software Engineer** with a background in **aviation operations**, where I thrived in fast-paced, high-stakes environments that demanded precision, teamwork, and calm problem-solving. I now bring those skills into **building scalable, user-focused software** that makes an impact. 
+I’m a **Full-Stack Software Engineer** with a background in aviation operations, where precision, teamwork, and calm problem-solving were essential. I now apply those strengths to building **reliable, user-centered applications** across the MERN stack. 
+
+As I continue growing in tech, I’m expanding my skill set into areas like **QA automation, testing best practices, and DevOps fundamentals** — all with the goal of becoming a stronger, more well-rounded engineer. 
 
 ## 🎓 Certifications & Achievements:
 - **Full-Stack Engineer**  
@@ -86,4 +88,4 @@ Tools: Git, npm, Postman, Figma, VSCode
 
 ---
 
-✨ Passionate about solving problems through code, learning new technologies, and collaborating with others. Always open to connecting with developers and exploring new opportunities! 
+✨ I’m passionate about building meaningful software, learning continuously, and exploring the broader engineering ecosystem—from full-stack development to QA automation and DevOps. Always happy to connect and chat tech!
