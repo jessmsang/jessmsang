@@ -1,5 +1,5 @@
 # Hi, I’m Jess Sang 👋  
-Junior Full-Stack Software Engineer | Problem-Solver | Team Collaborator  
+Early-Career Software Engineer | Full-Stack Development | Exploring QA Automation & DevOps
 
 I’m a **Full-Stack Software Engineer** with a background in aviation operations, where precision, teamwork, and calm problem-solving were essential. I now apply those strengths to building **reliable, user-centered applications** across the MERN stack. 
 
